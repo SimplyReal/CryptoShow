@@ -1,6 +1,6 @@
 # CryptoShow
 
-CryptoShow is an web application which will show the value, position of any cryptos or coins in the market by fetching the data from the APIs.
+CryptoShow is a web application that will show the value and position of any cryptocurrencies or coins in the market by fetching the data from the APIs.
 
 In the project directory, you can run by:
 
